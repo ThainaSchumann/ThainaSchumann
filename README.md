@@ -22,6 +22,7 @@
   <img align="center" alt="Thaina-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="right" alt="Thaina-pic" height="150" style="border-radius:50px;" 
    src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  src=" https://cdn.discordapp.com/attachments/880430158140567582/951163168141496320/picasion.com_6d5563e9a7f1bf1027a7cebb800d4094.gif">
    
 </div>
   
