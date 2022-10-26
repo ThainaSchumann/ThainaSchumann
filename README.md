@@ -2,7 +2,7 @@
 
 
  
-- 🌱 I’m currently learning Java, Javascript, Html + Css, PHP ...
+- 🌱 I’m currently learning  Javascript, Html + Css,Bootstrap and PHP ...
 
 <div align="center">
   <a href="https://github.com/ThainaSchumann">
