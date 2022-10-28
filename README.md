@@ -2,7 +2,7 @@
 
 
 - 🚀 I am currently doing an internship in the IT frontend area.
-- 🌱 I’m learning Javascript, Html + Css,Bootstrap and PHP ...
+- 🌱 I’m learning Javascript, Html + Css,Bootstrap, Wordpress and PHP ...
 
 <div align="center">
   <a href="https://github.com/ThainaSchumann">
