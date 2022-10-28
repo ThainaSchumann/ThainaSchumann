@@ -1,8 +1,8 @@
 ### Hello!!! I´m Thaina 👋
 
 
- 
-- 🌱 I’m currently learning  Javascript, Html + Css,Bootstrap and PHP ...
+- 🚀 I am currently doing an internship in the IT frontend area.
+- 🌱 I’m learning Javascript, Html + Css,Bootstrap and PHP ...
 
 <div align="center">
   <a href="https://github.com/ThainaSchumann">
