@@ -1,7 +1,5 @@
 ### Hello!!! I´m Thaina 👋
 
-
-- 🚀 I am currently doing an internship in the IT frontend area.
 - 🌱 I’m learning Html, Css, Javascript,Bootstrap, Wordpress and PHP ...
 
 <div align="center">
