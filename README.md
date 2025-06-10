@@ -1,6 +1,6 @@
 ### Hello!!! I´m Thaina 👋
 
-- 🌱 I’m learning Html, Css, Javascript,Bootstrap, Wordpress and PHP ...
+- 🌱 I’m learning Html, Css, Javascript,Bootstrap, JAVA.
 
 <div align="center">
   <a href="https://github.com/ThainaSchumann">
